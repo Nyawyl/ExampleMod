@@ -1,0 +1,5 @@
+{
+  "entrypoints": [
+    "xyz.mangal.example.Main"
+  ]
+}
